@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoobo-jose/server_Express.git"
+  },
+  "author": "zo'obo bekolo eric jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoobo-jose/server_Express/issues"
+  },
+  "homepage": "https://github.com/zoobo-jose/server_Express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
